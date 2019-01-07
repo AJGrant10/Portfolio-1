@@ -47,7 +47,7 @@ This repository contains the following content...
 - **about:** The about folder contains this readme and additional helpful information for your ongoing reference.
 - **challenges:** This folder contains coding challenges. 
 - **docs:** Use this folder for research and documentation. 
-- **".gitignore" file:** This file is used in version control. It instructrs Git to ignore files that are unnecessary to share online. 
+- **".gitignore" file:** This file is used in version control. It instructs Git to ignore files that are unnecessary to share online. 
 
 
 ### Strongly Recommended...
