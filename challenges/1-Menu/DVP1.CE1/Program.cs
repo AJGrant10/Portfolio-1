@@ -4,7 +4,7 @@ namespace DVP1.CE1
 {
     class MainClass
     {
-        public static void Main(string[] args)
+        public class  Main(string[] args)
         {
             {
                 Console.WriteLine("Coding challenge menu:");
@@ -18,6 +18,18 @@ namespace DVP1.CE1
 
                 Console.WriteLine("Please enter the number for the challenge you want to run...");
             }
+            public static void second(string[] args)
+        {
+
+            Console.WriteLine("Welcome to SwapName:");
+            Console.WriteLine("To begin enter your first name...");
+            string inputText = Console.ReadLine();
+
+            Console.WriteLine("Thank you " + inputText + " ,now enter your last name");
+            string inputText2 = Console.ReadLine();
+            Console.WriteLine("Excellent! Your name is " + inputText + " "+ inputText2 +" reversed would be "+ inputText2 +" " + inputText);
+            Console.ReadLine();
+        }
         }
     }
 }
