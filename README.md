@@ -16,10 +16,4 @@ Begin required research for the first milestone "Version Control" (see FSO).
 
 Attend first Lecture or GoTo meeting. 
 
-After completing the steps above, you can begin to customize this document. 
-
-
-
-
-
-
+After completing the steps above, you can begin to customize this document.
