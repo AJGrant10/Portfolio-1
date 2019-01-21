@@ -1,4 +1,8 @@
 namespace DVP1.CE1
+//Andrew Grant
+//2019 January
+//Project & Portfolio 1
+//In this challenge I created a class that reverses the name
 {
     public class SwapName
     {
