@@ -1,21 +1,4 @@
 ###### *DVP1 - Coding Challenges*
----
-
-# Menu
-Provide a means for the user to select and run any of the other completed coding challenges. As you complete each challenge, this will offer a way for the user to run it. 
-
-Carefully consider your user and all possible ways in which they could respond. 
-
-#### Your code should:
-> * Welcome point for the application 
-> * Display a menu of code challenges that can be run
-> * Include a message that asks the user to select a challenge
-> * Return to the menu after a challenge runs
-
-
-**Note**: *The menu will need to be called from Main() and call your other challenges. If you are unsure how to do this, focus your research on instantiating objects from a class.*
-
-##### Example Menu:
 
 ```
   ___          _        _       _     ___         _    __     _ _     
