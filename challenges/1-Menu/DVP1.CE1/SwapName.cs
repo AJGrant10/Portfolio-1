@@ -3,9 +3,9 @@ namespace DVP1.CE1
     public class SwapName
     {
         namespace SwapName
-{
+{ {
     public static void GetSwapName()
-    
+
         {
 
             Console.WriteLine("Welcome to SwapName:");
@@ -18,4 +18,5 @@ namespace DVP1.CE1
             Console.ReadLine();
         }
     }
+}
 }
